@@ -1,7 +1,7 @@
 import React from 'react';
 
 const asisten = {
-    name : 'Muhammad Yafi',
+    name : 'Kelompok 13',
     jurusan : 'Teknik Komputer 2019'
 };
 
@@ -15,8 +15,8 @@ const ReactJSX = () => {
     return (
         <div>
             <h1>Belajar JSX</h1>
-            <h2>Belajar JSX hehe {greetings(asisten)}</h2>
-            <p style={{color:'#00ff00'}}>ini adalah contoh menggunakan JSX</p>
+            <h2> Ini adalah bagian tugas {greetings(asisten)}</h2>
+            <p style={{color:'#0e63eb'}}>ini adalah contoh menggunakan JSX</p>
         </div>
     );
 }
