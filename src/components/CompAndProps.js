@@ -5,7 +5,7 @@ import '../App.css';
 function Square(props){
     return (
        <div>
-        <h2> Hai hehe</h2>
+        <h2>Hallo!</h2>
         <p>Saya components {props.komponen}</p>
         <a href={props.link}>Click here</a>
        </div>
