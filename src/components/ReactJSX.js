@@ -27,7 +27,7 @@ const ReactNoJSX = () => {
 		null,
 		React.createElement('h1', null, 'Halo Praktikan hehe'),
 		React.createElement('h2', null, 'Nama gue ', greetings(praktikan)),
-		React.createElement('p', { style: { color: '#ff0000' } }, 'ini adalah contoh tanpa JSX')
+		React.createElement('p', { style: { color: '#bde0fe' } }, 'ini adalah contoh tanpa JSX')
 	);
 };
 export default ReactJSX;
